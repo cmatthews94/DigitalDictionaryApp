@@ -1,0 +1,13 @@
+C:\Users\UFAC014\source\repos\DigitalDictionaryApp\DigitalDictionaryApp\bin\Debug\netcoreapp3.1\DigitalDictionaryApp.exe
+C:\Users\UFAC014\source\repos\DigitalDictionaryApp\DigitalDictionaryApp\obj\Debug\netcoreapp3.1\DigitalDictionaryApp.csprojAssemblyReference.cache
+C:\Users\UFAC014\source\repos\DigitalDictionaryApp\DigitalDictionaryApp\obj\Debug\netcoreapp3.1\DigitalDictionaryApp.AssemblyInfoInputs.cache
+C:\Users\UFAC014\source\repos\DigitalDictionaryApp\DigitalDictionaryApp\obj\Debug\netcoreapp3.1\DigitalDictionaryApp.AssemblyInfo.cs
+C:\Users\UFAC014\source\repos\DigitalDictionaryApp\DigitalDictionaryApp\bin\Debug\netcoreapp3.1\DigitalDictionaryApp.deps.json
+C:\Users\UFAC014\source\repos\DigitalDictionaryApp\DigitalDictionaryApp\bin\Debug\netcoreapp3.1\DigitalDictionaryApp.runtimeconfig.json
+C:\Users\UFAC014\source\repos\DigitalDictionaryApp\DigitalDictionaryApp\bin\Debug\netcoreapp3.1\DigitalDictionaryApp.runtimeconfig.dev.json
+C:\Users\UFAC014\source\repos\DigitalDictionaryApp\DigitalDictionaryApp\bin\Debug\netcoreapp3.1\DigitalDictionaryApp.dll
+C:\Users\UFAC014\source\repos\DigitalDictionaryApp\DigitalDictionaryApp\bin\Debug\netcoreapp3.1\DigitalDictionaryApp.pdb
+C:\Users\UFAC014\source\repos\DigitalDictionaryApp\DigitalDictionaryApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\UFAC014\source\repos\DigitalDictionaryApp\DigitalDictionaryApp\obj\Debug\netcoreapp3.1\DigitalDictionaryApp.csproj.CopyComplete
+C:\Users\UFAC014\source\repos\DigitalDictionaryApp\DigitalDictionaryApp\obj\Debug\netcoreapp3.1\DigitalDictionaryApp.dll
+C:\Users\UFAC014\source\repos\DigitalDictionaryApp\DigitalDictionaryApp\obj\Debug\netcoreapp3.1\DigitalDictionaryApp.pdb
